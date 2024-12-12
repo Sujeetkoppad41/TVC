@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "DroneCounterMeasures",
+			"path": "../../Documents/PlatformIO/Projects/DroneCounterMeasures"
+		}
+	],
+	"settings": {
+		"ocaml.sandbox": {
+			"kind": "global"
+		}
+	}
+}
